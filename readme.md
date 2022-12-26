@@ -1,3 +1,6 @@
-The library management system software should be user-friendly and cost effective. It should be in tune with the establishment’s needs and compatible with the existing technology.
+Libraray Management System is developed and designed to manage the inventory system.It is easy software system that helps within the sleek functioning of Library Management System.It keeps the track of books issud and returned from Library.LMS involves maintaining of info of exiting books yetas new books additional within  the library.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This system keeps the record of all things like books,DVDs,CDs,and Magzines etc.in Library.It is utilized in colleges,institutions,colleges,universities and at many more places which provide full support to librarian and helpsin easy management in Library.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Libraray Management system in software system that hepls in maintainig records of all library things. A library Management System is additionally referred to as automatic library system that keeps track of each book issued,returned and added to library.
 
-A library should use a software system that helps in effectively managing the data in a library. The library database includes all relevant information regarding assets to membership details. The software records details on all reading and reference material available for reading and lending. Membership information, lending details and renewal dates are managed by the software.
